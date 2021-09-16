@@ -1,0 +1,24 @@
+{
+  "name": "airkod/sales-back",
+  "authors": [
+    {
+      "name": "Edward Komissarov",
+      "email": "execrot@gmail.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git@github.com:airkod/light.git"
+    }
+  ],
+  "require": {
+    "airkod/light": "dev-master",
+    "liqpay/liqpay": "^1.2",
+    "phpmailer/phpmailer": "*",
+    "ext-simplexml": "*",
+    "ext-json": "*",
+    "ext-curl": "*",
+    "ext-mongodb": "*"
+  }
+}

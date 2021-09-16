@@ -1,0 +1,4 @@
+vendor
+composer.lock
+www/assets/admin
+.idea
